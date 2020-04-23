@@ -5,3 +5,7 @@
 ### TCV-Barber
 
 A full stack project to allow bearded guys (don't take to hard girls :grin: ) find barbers to shave!
+
+## Deprecated
+
+Currently working on newer version using TypeScript. Please [follow the new project page](https://github.com/thiagovasconcellos/barber-2020)
